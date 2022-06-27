@@ -1,0 +1,13 @@
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.deps.json
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.dll
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.pdb
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.AssemblyInfoInputs.cache
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.AssemblyInfo.cs
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.csproj.CoreCompileInputs.cache
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.dll
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.pdb
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.runtimeconfig.json
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.runtimeconfig.dev.json
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.csproj.AssemblyReference.cache
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Infrastructre\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.genruntimeconfig.cache

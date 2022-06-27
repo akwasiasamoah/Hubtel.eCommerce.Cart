@@ -1,0 +1,13 @@
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.deps.json
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.dll
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.pdb
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.dll
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\bin\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Infrastructre.pdb
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.csproj.AssemblyReference.cache
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.AssemblyInfoInputs.cache
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.AssemblyInfo.cs
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.csproj.CoreCompileInputs.cache
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.csproj.CopyComplete
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.dll
+C:\Users\akwas\source\repos\Hubtel.eCommerce.Cart\Hubtel.eCommerce.Cart.Application\obj\Debug\netcoreapp3.1\Hubtel.eCommerce.Cart.Application.pdb
