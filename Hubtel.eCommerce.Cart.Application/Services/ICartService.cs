@@ -8,7 +8,7 @@ namespace Hubtel.eCommerce.Cart.Application.Services
 {
     public interface ICartService
     {
-        IEnumerable<CartModelDTO> GetAllItems(FilteredCart filteredCart);
+        Task<IEnumerable<CartModelDTO>> GetAllItems(FilteredCart filteredCart);
         Task<CartModelDTO> GetItemById(int id);
         Task<CartModelDTO> AddItem(CartModelDTO cartModel);
         Task DeleteItem(int id);
