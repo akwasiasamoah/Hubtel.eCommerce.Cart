@@ -24,7 +24,7 @@ namespace Hubtel.eCommerce.Cart.Application.Services
 
         public async Task<CartModelDTO> AddItem(CartModelDTO cartModel)
         {
-            var existingItem = await _eCommerceDbContext.CartModels.FirstOrDefaultAsync(x => x.ItemId == cartModel.ItemId);
+            var existingItem = await _eCommerceDbContext.CartModels.FirstOrDefaultAsync(x => x.ItemId == cartModel.ItemId && x.PhoneNumber == cartModel.PhoneNumber);
 
             if(existingItem == null)
             {
