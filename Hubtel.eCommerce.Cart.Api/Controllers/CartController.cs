@@ -21,9 +21,9 @@ namespace Hubtel.eCommerce.Cart.Api.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAllAsync([FromQuery] FilteredCart filteredCart)
+        public IActionResult GetAllAsync([FromQuery] FilteredCart filteredCart)
         {
-            var items = await _cartService.GetAllItems(filteredCart);
+            var items =  _cartService.GetAllItems(filteredCart);
 
             return Ok(items);
         }

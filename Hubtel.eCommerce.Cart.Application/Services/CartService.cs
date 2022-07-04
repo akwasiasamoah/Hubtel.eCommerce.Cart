@@ -61,7 +61,7 @@ namespace Hubtel.eCommerce.Cart.Application.Services
             await _eCommerceDbContext.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<CartModelDTO>> GetAllItems(FilteredCart filteredCart)
+        public IEnumerable<CartModelDTO> GetAllItems(FilteredCart filteredCart)
         {
             var items = _eCommerceDbContext.CartModels.AsQueryable();
             if (!string.IsNullOrEmpty(filteredCart.Item))
